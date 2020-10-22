@@ -1,0 +1,19 @@
+.Article {
+  max-width: 80vw;
+  border: .2rem solid rgb(127, 127, 127);
+  border-radius: .5rem;
+  padding: .5rem;
+  margin:  .5rem;
+  display: grid;
+
+  img{
+    max-width: 25%;
+    display: inline-block;
+    border-radius: .5rem;
+  }
+
+  a, a:visited {
+    color: inherit;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,8 @@
+.ArticleList {
+  ul {
+    max-width: 80vw;
+  }
+  li{
+    list-style: none;
+  }
+}

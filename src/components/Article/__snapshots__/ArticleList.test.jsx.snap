@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList component renders ArticleList 1`] = `
+<DocumentFragment>
+  <ul
+    class="ArticleList"
+  >
+    <li>
+      <div
+        class="Article"
+      >
+        <h1>
+          <a
+            href="https://www.dailyplanet.com"
+          >
+            Headline here
+          </a>
+        </h1>
+        <span>
+          Author: Clark Kent
+        </span>
+        <img
+          alt="Headline here"
+          src="https://www.dailyplanet.com/img"
+        />
+        <div>
+          Some stuff happened
+        </div>
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
